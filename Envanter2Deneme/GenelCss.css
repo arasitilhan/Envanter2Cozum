@@ -1,0 +1,32 @@
+﻿#myProgress {
+    width: 100%;
+    background-color: #ddd;
+}
+
+#myBar {
+    width: 0%;
+    height: 30px;
+    background-color: #4CAF50;
+}
+
+#myProgressTarama {
+    width: 100%;
+    background-color: #ddd;
+}
+
+#myBarTarama {
+    width: 0%;
+    height: 30px;
+    background-color: #18BC9C !important;
+}
+
+#myProgressYukleme {
+    width: 100%;
+    background-color: #ddd;
+}
+
+#myBarYukleme {
+    width: 0%;
+    height: 30px;
+    background-color: #E74C3C !important;
+}
